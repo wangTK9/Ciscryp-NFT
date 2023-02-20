@@ -1,0 +1,41 @@
+@media (max-width: 1023px) {
+    .discover__btn {
+        display: none;
+    }
+    .connect__btn {
+        display: none;
+    }
+    
+    .dark__light {
+        display: none;
+    }
+    .bar {
+        display: block;
+        font-size: 30px;
+        cursor: pointer;
+    }   
+    .creator__btn {
+        display: none;
+    }
+    .my__social {
+        display: none;
+    }
+    
+    .my__logo {
+        justify-content: center;
+    
+    }
+    
+    .reserved {
+         display: none;
+    }
+    
+    .develop {
+         width: 50%;
+         text-align: center;
+    }
+    .footer__info {
+        height: 22em;
+    }
+   
+}

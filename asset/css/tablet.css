@@ -1,0 +1,119 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+    .main {
+        height: 515em;
+    }
+    .sub__nav--btn {
+        justify-content: space-around;
+    }
+    .header {
+        height: 115em;
+    }
+    .step {
+        margin-top: 400px;
+        height: 45em;
+    }
+    .detail__step {
+        margin-bottom: 50px;
+        height: 20em;
+    }
+    .price__item {
+        margin: 0 auto;
+        margin-bottom: -43em;
+        margin-top: 45em;
+        width: 90%;
+        height: 38em;
+    }
+    .price__item h1 {
+        font-size: 26px;
+    }
+    .big__item {
+        height: 87em;
+        margin-top: 0px;
+    }
+    .picture__item {
+        margin-top: -38em;
+        height: 42em;
+    }
+    /* creator */
+    .creator {
+        margin-top: 75px;
+        height: 94em;
+    }
+    /* collection */
+    .collection {
+        margin-top: 50px;
+        height: 34em;
+
+    }
+    .collection__card {
+        height: 10em;
+    }
+    #title__ab {
+        width: 260px;
+    }
+    #collection__card3 {
+        display: none;
+    }
+    #collection__card3 {
+        display: none;
+    }
+    .collection__pic {
+        width: 60%;
+    }
+    .collection__title {
+        font-size: 26px;
+    }
+    /* nav feature */
+    .feature {
+        height: 93em;
+    }
+    .feature__nav {
+        display: block;
+    }
+    .pagination {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .page-link {
+        margin-right: 10px;
+    }
+    .feature__filter {
+        display: block;
+        width: 100%;
+    }
+    .filter__btn {
+        margin-top: 20px;
+        padding: 0 285px;
+        width: 100%;
+       justify-content: space-between;
+    }
+    .feature__sort {
+        display: none;
+    }
+    .feature__card {
+        margin-bottom: 40px;
+    }
+    .body__feature {
+        height: 68em;
+    }
+    .header__feature {
+        height: 270px;
+    }
+    
+    .collection__pic {
+        width: 60%;
+    }
+    .footer {
+        height: 66em;
+        margin-top: -30px;
+    }
+    .footer__info {
+        margin-top: 100px;
+    }
+    .footer__picture {
+        margin-top: 100px;
+    }
+ 
+}
